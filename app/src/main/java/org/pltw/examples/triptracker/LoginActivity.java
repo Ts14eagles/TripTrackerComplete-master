@@ -25,8 +25,8 @@ public class LoginActivity extends AppCompatActivity {
     private Button mSignUpButton;
     private Button mLoginButton;
     private TextView mSignUpTextView;
-    private final String be_app_id = "1D3518A2-AD14-EA8C-FFE3-767E44663300";
-    private final String be_android_api_key = "47444F30-4D48-0B5E-FFF5-872A9965FB00";
+    private final String be_app_id = "1EAF3D4E-EF8D-1B40-FF73-8A866FDE0A00";
+    private final String be_android_api_key = "BBE3AFF9-19AB-EA7E-FFD7-B24FD3B50C00";
     private final String TAG = this.getClass().getName();
 
     public void warnUser(String message){
